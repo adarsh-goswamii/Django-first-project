@@ -1,0 +1,4 @@
+{
+  "python.pythonpath": "/usr/local/bin/python", 
+  "window.languageServer": "Pylance"
+}
